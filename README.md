@@ -1,3 +1,7 @@
+
+## Dickson Anderson
+
+I am an assistant Lecturer from [University of Dar Es Salaam](https://www.udsm.ac.tz/home) - Tanzania
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

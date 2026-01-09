@@ -1,7 +1,13 @@
 
 ## Dickson Anderson
 
+
 I am an assistant Lecturer from [University of Dar Es Salaam](https://www.udsm.ac.tz/home) - Tanzania
+
+### Education
+
+1. Msc in Geographical Information System (2015 - 2018)
+
 ## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
